@@ -17,7 +17,7 @@ You can find my CV here: [Yangyang Sun's Curriculum Vitae_2022](../assets/Curric
 [Email](mailto:sunyangyang@edu.cqu.cn) / [Github](https://github.com/YangySun) / [QQ](tencent://AddContact/?fromId=45&fromSubId=1&subcmd=all&uin=775959301) 
 
 ## <span style="color: blue;">Recent News
-* The Spatio-temporal Laboratory of Chongqing University aims to give full play to the advantages of enterprises and universities, deeply explore the related technologies of spatio-temporal data collection, storage, management, mining and visualization, and actively promote the landing of academic achievements in the industry! There are 2~3 postgraduate places in the year, and students from computer, GIS and other related majors are welcome to apply!
+* The Spatio-temporal Laboratory of Chongqing University aims to give full play to the advantages of enterprises and universities, deeply explore the related technologies of spatio-temporal data collection, storage, management, mining and visualization, and actively promote the landing of academic achievements in the industry! There are 2~3 postgraduate places in the year, and students from computer, GIS and other related majors are welcome to apply! :tada: 
 
 
 ## Current Research
