@@ -14,5 +14,5 @@ I was advised by [Prof. Ruiyuan Li](http://www.kangry.net/blog/ruiyuanli) of Spa
 
 You can find my CV here: [Yangyang Sun's Curriculum Vitae_2022](../assets/Curriculum_Vitae.pdf_2022.pdf).
 
-[Email](mailto:sunyangyang@edu.cqu.cn) / [Github](https://github.com/YangySun) / [QQ](775959301) 
+[Email](mailto:sunyangyang@edu.cqu.cn) / [Github](https://github.com/YangySun) / [QQ](tencent://AddContact/?fromId=45&fromSubId=1&subcmd=all&uin=775959301) 
 
