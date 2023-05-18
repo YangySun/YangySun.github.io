@@ -14,6 +14,6 @@ redirect_from:
 * 2018.09 - 2022.06   Bachelor   Data Science and Big Data Technologies   Dalian Maritime University, China
 
 ### Project
-* horizontal project, CUPID-DB时空大数据管理分析引擎, 2023年1月~2023年4月, 参与
+* horizontal project, CUPID-DB时空大数据管理分析引擎, January,2023 to April,2023, Participation
 
 ### Honor
