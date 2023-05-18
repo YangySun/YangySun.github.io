@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I'm a first year undergraduate student from [School of CS](http://www.cs.cqu.edu.cn/), [Chongqing University](https://www.cqu.edu.cn/). My research interest includes Managing and Mining Streaming Spatio-Temporal Data .
+Yangyang Sun is a first year undergraduate student from [School of CS](http://www.cs.cqu.edu.cn/), [Chongqing University](https://www.cqu.edu.cn/). My research interest includes Managing and Mining Streaming Spatio-Temporal Data .
 
 I was advised by [Prof. Ruiyuan Li](http://www.kangry.net/blog/ruiyuanli) of Spatio-Temporal Art (START) Lab  from [School of CS](http://www.cs.cqu.edu.cn/), Chongqing University and [Prof. ChaoChen](http://www.cs.cqu.edu.cn/info/1322/6092.htm) from [School of CS](http://www.cs.cqu.edu.cn/), Chongqing University.
 
