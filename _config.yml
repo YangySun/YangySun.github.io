@@ -206,7 +206,7 @@ defaults:
       type: notes
     values:
       layout: single
-      author_profile : true
+      author_profile : false
 
 # Sass/SCSS
 sass:
