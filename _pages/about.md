@@ -23,6 +23,6 @@ He was advised by [Prof. Ruiyuan Li](http://www.kangry.net/blog/ruiyuanli) of Sp
 * Streaming Spatio-temporal Data queries
 
 ## Cooperation
-* [Zheng Li](https://lizhzz.github.io/lizheng.github.io/)
+* [Zheng Li](https://lizhzz.github.io/)
 * [Xiang He](https://cquhx.github.io/)
 * [Zechao Chen](https://blog.ackth.cc/about/)
