@@ -10,7 +10,7 @@ redirect_from:
 
 Yangyang Sun is a first year undergraduate student from [School of CS](http://www.cs.cqu.edu.cn/), [Chongqing University](https://www.cqu.edu.cn/). His research interest includes Managing and Mining Streaming Spatio-Temporal Data .
 
-He was advised by <span style="color: red;">[Prof. Ruiyuan Li](http://www.kangry.net/blog/ruiyuanli) of Spatio-Temporal Art (START) Lab  from [School of CS](http://www.cs.cqu.edu.cn/), Chongqing University and <span style="color: red;">[Prof. ChaoChen](http://www.cs.cqu.edu.cn/info/1322/6092.htm) from [School of CS](http://www.cs.cqu.edu.cn/), Chongqing University.
+He was advised by [Prof. Ruiyuan Li](http://www.kangry.net/blog/ruiyuanli) of Spatio-Temporal Art (START) Lab  from [School of CS](http://www.cs.cqu.edu.cn/), Chongqing University and [Prof. ChaoChen](http://www.cs.cqu.edu.cn/info/1322/6092.htm) from [School of CS](http://www.cs.cqu.edu.cn/), Chongqing University.
 
 [Email](mailto:sunyangyang@edu.cqu.cn) / [Github](https://github.com/YangySun) / [QQ](tencent://AddContact/?fromId=45&fromSubId=1&subcmd=all&uin=775959301) 
 
