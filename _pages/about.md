@@ -30,7 +30,6 @@ Start-DB is an open source **stream-batch integrated** database, which support l
 stream query. For more detail: [Start-DB](https://github.com/Spatio-Temporal-Lab/start-db).
 
 
-<!DOCTYPE html>
 <html lang="zh">
 <head>
     <meta charset="UTF-8">
